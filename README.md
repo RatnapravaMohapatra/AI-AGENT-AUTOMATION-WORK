@@ -9,11 +9,17 @@ The workflow includes:
 - A **Form Trigger** for image and text input  
 - **Base64 conversion** for file handling  
 - **HTTP Request** to the OpenRouter API for AI-based image generation  
-- **JSON extraction and conversion** back to a downloadable image  
+- **JSON extraction and conversion** back to a downloadable image
+
+- 
 
 This project simplifies creative editing by integrating automation with AI, enabling fast, clean, and professional visual outputs — ideal for creators, designers, and content editors.
 
 **Author:** Ratnaprava Mohapatra
 **Tools Used:** n8n, OpenRouter API, Google Gemini 2.5 Flash Image Preview  
 **Purpose:** Automate image editing and caption generation through no-code AI workflows.
+
+
+https://github.com/user-attachments/assets/3bdc5225-7ab2-4c20-bbdf-ca15d981ee6a
+
 
